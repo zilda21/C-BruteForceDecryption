@@ -47,10 +47,6 @@ A .NET Core application designed to test brute force decryption techniques and a
 ## Contributing  
 Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request.  
 
-## License  
-This project is licensed under the MIT License.  
-
-## Acknowledgments  
-- The project was inspired by the need to understand and test the robustness of cryptographic methods.  
-- Thanks to the .NET and WPF communities for their support and resources.  
+ 
+  
 
